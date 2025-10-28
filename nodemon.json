@@ -1,0 +1,12 @@
+{
+  "ignore": [
+    ".git",
+    "node_modules",
+    "node_modules/.vite",
+    "src",
+    "package.json",
+    "package-lock.json",
+    "yarn.lock"
+  ],
+  "ext": "js,json"
+}
